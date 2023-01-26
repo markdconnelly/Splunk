@@ -1,1 +1,1 @@
-# Splunk
+# SplunkCloud Searches
